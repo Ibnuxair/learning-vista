@@ -1,0 +1,12 @@
+{
+  "name": "learning-vista",
+  "version": "1.0.0",
+  "description": "This project is a compilation of back-end concepts: authentication, NodeJS, MongoDB, Redis, pagination and background processing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
